@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/StanGirard/StanGirard/master/stangirard-logo.png "Header")](https://primates.dev/)
 
-# Hey guys! <img src="wave.gif" width="30px">
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 My name is Stan Girard and I'm a software developer/DevOps engineer. I'm from France, living in Paris and currently working at Natixis.
 
