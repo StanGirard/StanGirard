@@ -1,4 +1,4 @@
-[![Header](stangirard.png "Header")](https://primates.dev/)
+[![Header](stangirard-logo.png "Header")](https://primates.dev/)
 
 # Hey guys! <img src="wave.gif" width="30px">
 
