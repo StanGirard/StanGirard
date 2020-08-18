@@ -6,7 +6,7 @@ My name is Stan Girard and I'm a software developer/DevOps engineer. I'm from Fr
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [primates.dev](https://primates.dev/). The goal of my blog is to help developpers or IT enthousiasts find answer to certain issues. Anybody can publish content, so feel free to write some articles.
+Apart from coding, I also maintain a blog - you can find my articles on my website at [primates.dev](https://primates.dev/). The goal of my blog is to help developpers or IT enthousiasts find answers to certain issues. Anybody can publish content, so feel free to write some articles.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
