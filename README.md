@@ -2,7 +2,7 @@
 
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-My name is Stan Girard and I'm a software developer/DevOps engineer. I'm from France, living in Paris and currently working at Natixis.
+My name is Stan Girard and I'm a Site Reliability Engineer. I'm from France, living in Paris and currently working at [Padok](https://www.padok.fr/).
 
 ## &#x270d; Blog & Writing
 
@@ -38,20 +38,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trollshunter&repo=trollhunter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-
-
-<!--
-**StanGirard/StanGirard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
