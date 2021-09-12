@@ -23,18 +23,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/StanGirard/StanGirard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StanGirard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stan Girard's GitHub Stats" />
-</a>
-<a href="https://github.com/StanGirard/StanGirard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanGirard&hide=java,css,typescript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/StanGirard/seo-audits-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StanGirard&repo=seo-audits-toolkit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/TrollsHunter/TrollHunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StanGirard&repo=trollhunter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![](https://github.com/StanGirard/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/StanGirard/github-stats/blob/master/generated/languages.svg)
 
