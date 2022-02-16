@@ -20,9 +20,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Interest-Blockchain-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
-
-## &#x1f4c8; GitHub Stats
-
-![](https://github.com/StanGirard/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/StanGirard/github-stats/blob/master/generated/languages.svg)
-
