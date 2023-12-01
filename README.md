@@ -2,7 +2,7 @@
 
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-My name is Stan Girard and I'm Head of Generative AI @Theodo. I'm from France, living in Paris. 
+My name is Stan Girard and the Founder of Quivr.app & I'm Head of Gen AI @Theodo. I'm from France, living in Paris.
 
 ## &#x270d; Blog & Writing
 
